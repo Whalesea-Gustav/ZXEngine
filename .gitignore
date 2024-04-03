@@ -416,3 +416,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+/.idea/
+/BuildSolution/CMake/cmake-build-debug/
